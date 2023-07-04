@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+# Welcome to my repositories, I will be trying to update and constantly improve quality of my code while progressively undertaking 
+# even more challenging projects. I will greatly appreciate any guidance and feedback from viewer, especially if experienced.
+# I hope we all learn together something new and improve in our skills as developers!👍 
 <!--
 **Hazem160/Hazem160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
