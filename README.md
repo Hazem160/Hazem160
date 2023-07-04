@@ -8,7 +8,17 @@
 
    I am a Python software developer, on the path (hopefully right one) to apply and improve my gained knwoledge in a
    team or work environment, in doing so sharing our knowledge while helping each other out. I have also been exposed
-   to web development using Django framework with Javascript in creating full stack applications. 
+   to web development using Django framework with Javascript in creating full stack applications.
+   
+## My Tech Stack
+
+![simple diagram resembing a (tech) stack](https://github.com/Hazem160/Hazem160/assets/116741123/a05b797d-ca8f-4cfe-ab04-42247db41246)
+
+   - Python
+   - Javascript (slight detailing in React)
+   -  MySQl,SQlite
+   -  CSS, Bootstrap
+   -  Git, Github
 
    
 <!--
