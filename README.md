@@ -8,8 +8,8 @@
 
    I am a Python software developer on the path (hopefully the right one) to apply and improve my gained knowledge in a
    team or work environment, in doing so, sharing our knowledge while helping each other out. I have also been exposed
-   to web development using the Django framework with Javascript in creating full-stack applications. I strive to ensure efficient 
-   and accurate code operation while consistently honing my skills. I'm dedicated to collaborating with teams to achieve common 
+   to web development using the Django framework in Python with Javascript in creating full-stack applications. I strive to ensure       
+   efficient and accurate code operation while consistently honing my skills. I'm dedicated to collaborating with teams to achieve common 
    goals, always implementing best practices to enhance software functionality and performance. I enjoy applying <br>
    problem-solving skills and tackling challenges as I deem them to be both a demanding and rewarding experience.
    
